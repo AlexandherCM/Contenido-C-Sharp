@@ -1,0 +1,16 @@
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\PruebaCsharp\bin\Debug\PruebaCsharp.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\PruebaCsharp\bin\Debug\PruebaCsharp.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\PruebaCsharp\bin\Debug\PruebaCsharp.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\PruebaCsharp\obj\Debug\PruebaCsharp.csproj.AssemblyReference.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\PruebaCsharp\obj\Debug\PruebaCsharp.csproj.SuggestedBindingRedirects.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\PruebaCsharp\obj\Debug\PruebaCsharp.csproj.CoreCompileInputs.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\PruebaCsharp\obj\Debug\PruebaCsharp.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\PruebaCsharp\obj\Debug\PruebaCsharp.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\DataTypes C#\bin\Debug\PruebaCsharp.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\DataTypes C#\bin\Debug\PruebaCsharp.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\DataTypes C#\bin\Debug\PruebaCsharp.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\DataTypes C#\obj\Debug\PruebaCsharp.csproj.AssemblyReference.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\DataTypes C#\obj\Debug\PruebaCsharp.csproj.SuggestedBindingRedirects.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\DataTypes C#\obj\Debug\PruebaCsharp.csproj.CoreCompileInputs.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\DataTypes C#\obj\Debug\PruebaCsharp.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\DataTypes C#\obj\Debug\PruebaCsharp.pdb

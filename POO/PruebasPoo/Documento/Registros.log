@@ -1,0 +1,136 @@
+ID: 5478
+Nombre: Alejandro Guzman
+Tipo de regimen: Persona moral
+Primer contacto: 5597889796
+Segundo contacto: 5511548967
+Correo electrónico: alexandhercordoba379@gmail.com
+CP: 55635
+Municipio: Zumpango
+Colonia: Los sauces II
+Numero externo  : 212
+
+
+ static void Main(String[] args)
+        {
+            Console.Clear(); // Limpiar
+            float PtsObtenidos = 0; //CUIDADO PELIGRO
+           
+            float saberExam = 0;
+            float hacerTrab = 0;
+
+            float ser = Calculadora(40,5,24); //Cambiar el tercer parametro
+            float adaptabilidad = Calculadora(80,5,24); //Cambiar el tercer parametro
+
+            float extracurricular; //Dividir la nota entre 10
+
+            bool estado = true, permiso = Derecho(); //Para habilitar el examen
+
+
+            String opc1; //Capturamos el dato en String
+            int opc2; //Convertimos a int
+
+            //int.Parse()
+
+            String conversion;
+
+            while (estado == true)
+            {
+                Console.WriteLine("\n\t.:Ingresa el número de la opción que necesitas ;3:.\n" + 
+                                  "\n 1 - Hacer " +
+                                  "\n 2 - Saber " +
+                                  "\n 3 - Ser" +
+                                  "\n 4 - Total" +
+                                  "\n\n 0 - Salir");
+                opc1 = Console.ReadLine(); // Asignando valor a la variable
+                opc2 = Convert.ToInt32(opc1);
+
+                switch (opc2)
+                {
+                    case 1:
+                        float pObtenido1;
+
+                        if (permiso == true)
+                        {
+                            Console.WriteLine("\n\nIngresa el porcentaje obtenido (%)");
+                            conversion = Console.ReadLine(); //Capturamos el dato en String
+                            pObtenido1 = Convert.ToInt32(conversion); //Convertimos a int
+
+                            saberExam = Calculadora(10, 40, pObtenido1);
+
+                            Console.WriteLine("Puntos obtenidos en el [Hacer]: " + saberExam);
+                            //Console.WriteLine("Puntos obtenidos: {0} {1}", saberExam,"hola");
+                        }
+                        else
+                        {
+                            Console.WriteLine("\nNO TIENES HABILITADO EL APARTADO DE EXAMEN :(");
+                        }
+                        
+
+                        Console.ReadKey();
+                        Console.Clear();
+                        PtsObtenidos += saberExam; //SUMO Y REASIGNO
+                        break;
+                    case 2:
+                        float pObtenido2;
+
+                        Console.WriteLine("\n\nIngresa el porcentaje obtenido (%)");
+                        conversion = Console.ReadLine(); //Capturamos el dato en String
+                        pObtenido2 = Convert.ToInt32(conversion); //Convertimos a int
+
+                        hacerTrab = Calculadora(10, 40, pObtenido2);
+
+                        Console.WriteLine("Puntos obtenidos en el [Saber]: " + hacerTrab);
+
+                        Console.ReadKey();
+                        Console.Clear();
+                        PtsObtenidos += hacerTrab; //SUMO Y REASIGNO
+                        break;
+                    case 3:
+                        Console.WriteLine("Te odio");
+                        Console.ReadKey();
+                        break;
+                    case 4:
+                        //FIRMAS / FUNCIÓN DERECHO
+
+
+                        
+                        Console.ReadKey();
+                        break;
+                    case 5:
+                        //TOTAL
+
+                        Console.WriteLine("TOTAL: " + (saberExam + hacerTrab));
+                        // 60 = 100% --> (PtsObtenidos * 100)/(60)
+                        break;
+                    case 0:
+                        Console.WriteLine("ADIOS");
+                        estado = false;
+                        break;
+                    default:
+                        Console.WriteLine("DATO INVALIDO");
+                        break;  
+                }
+            }
+
+            Console.WriteLine();
+            Console.ReadKey(); //dETENER EL CODIGO EN UNA PARTE CONCRETA
+        }
+
+        /* FUNCIONES - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+        public static float Calculadora(float pts, float porcentaje, float pObtenido)
+        {
+            float op1 = (pObtenido * pts);
+            float op2 = (op1 / porcentaje);
+
+            return op2;     
+        }
+
+        public static bool Derecho(/*INGRESA PARAMETROS*/) //firmas
+        {
+            bool derecho = false;
+            float porcentaje= 80;
+            //REALIZAR LA FUNCIÓN DEL 80% de las notas
+
+            return derecho;
+        }

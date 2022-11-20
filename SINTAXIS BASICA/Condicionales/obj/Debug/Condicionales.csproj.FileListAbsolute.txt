@@ -1,0 +1,16 @@
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Condicionales\bin\Debug\Condicionales.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Condicionales\bin\Debug\Condicionales.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Condicionales\bin\Debug\Condicionales.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Condicionales\obj\Debug\Condicionales.csproj.AssemblyReference.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Condicionales\obj\Debug\Condicionales.csproj.SuggestedBindingRedirects.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Condicionales\obj\Debug\Condicionales.csproj.CoreCompileInputs.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Condicionales\obj\Debug\Condicionales.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Condicionales\obj\Debug\Condicionales.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Condicionales\bin\Debug\Condicionales.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Condicionales\bin\Debug\Condicionales.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Condicionales\bin\Debug\Condicionales.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Condicionales\obj\Debug\Condicionales.csproj.AssemblyReference.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Condicionales\obj\Debug\Condicionales.csproj.SuggestedBindingRedirects.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Condicionales\obj\Debug\Condicionales.csproj.CoreCompileInputs.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Condicionales\obj\Debug\Condicionales.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Condicionales\obj\Debug\Condicionales.pdb

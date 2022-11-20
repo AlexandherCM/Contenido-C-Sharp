@@ -1,0 +1,15 @@
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\bin\Debug\net6.0\PagoDeNomina.exe
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\bin\Debug\net6.0\PagoDeNomina.deps.json
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\bin\Debug\net6.0\PagoDeNomina.runtimeconfig.json
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\bin\Debug\net6.0\PagoDeNomina.dll
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\bin\Debug\net6.0\PagoDeNomina.pdb
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\obj\Debug\net6.0\PagoDeNomina.csproj.AssemblyReference.cache
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\obj\Debug\net6.0\PagoDeNomina.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\obj\Debug\net6.0\PagoDeNomina.AssemblyInfoInputs.cache
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\obj\Debug\net6.0\PagoDeNomina.AssemblyInfo.cs
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\obj\Debug\net6.0\PagoDeNomina.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\obj\Debug\net6.0\PagoDeNomina.dll
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\obj\Debug\net6.0\refint\PagoDeNomina.dll
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\obj\Debug\net6.0\PagoDeNomina.pdb
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\obj\Debug\net6.0\PagoDeNomina.genruntimeconfig.cache
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PagoDeNomina\PagoDeNomina\obj\Debug\net6.0\ref\PagoDeNomina.dll

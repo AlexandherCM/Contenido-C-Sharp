@@ -1,0 +1,8 @@
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Arreglos\obj\Debug\Arreglos.csproj.AssemblyReference.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Arreglos\obj\Debug\Arreglos.csproj.SuggestedBindingRedirects.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Arreglos\bin\Debug\Arreglos.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Arreglos\bin\Debug\Arreglos.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Arreglos\bin\Debug\Arreglos.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Arreglos\obj\Debug\Arreglos.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\Arreglos\obj\Debug\Arreglos.pdb

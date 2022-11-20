@@ -1,0 +1,8 @@
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\CONVERSIONES\bin\Debug\CONVERSIONES.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\CONVERSIONES\bin\Debug\CONVERSIONES.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\CONVERSIONES\bin\Debug\CONVERSIONES.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\CONVERSIONES\obj\Debug\CONVERSIONES.csproj.AssemblyReference.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\CONVERSIONES\obj\Debug\CONVERSIONES.csproj.SuggestedBindingRedirects.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\CONVERSIONES\obj\Debug\CONVERSIONES.csproj.CoreCompileInputs.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\CONVERSIONES\obj\Debug\CONVERSIONES.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\SINTAXIS BASICA\CONVERSIONES\obj\Debug\CONVERSIONES.pdb

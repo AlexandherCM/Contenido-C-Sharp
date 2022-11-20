@@ -1,0 +1,60 @@
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.exe
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.deps.json
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.runtimeconfig.json
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.dll
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.pdb
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.csproj.AssemblyReference.cache
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.AssemblyInfoInputs.cache
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.AssemblyInfo.cs
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.dll
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\obj\Debug\net6.0\refint\PruebasPoo.dll
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.pdb
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.genruntimeconfig.cache
+D:\PROGRAMAS\Proyectos Visual\JWT_Seguridad\PruebasPoo\PruebasPoo\obj\Debug\net6.0\ref\PruebasPoo.dll
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.dll
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\obj\Debug\net6.0\refint\PruebasPoo.dll
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.pdb
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.exe
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.deps.json
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.runtimeconfig.json
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.dll
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.pdb
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.csproj.AssemblyReference.cache
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.AssemblyInfoInputs.cache
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.AssemblyInfo.cs
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.csproj.CoreCompileInputs.cache
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.genruntimeconfig.cache
+E:\Dual\Api\PROYECTOS UNI_AGC\PruebasPoo\PruebasPoo\obj\Debug\net6.0\ref\PruebasPoo.dll
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.exe
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.deps.json
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.runtimeconfig.json
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.dll
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.pdb
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.csproj.AssemblyReference.cache
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.AssemblyInfoInputs.cache
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.AssemblyInfo.cs
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.dll
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\obj\Debug\net6.0\refint\PruebasPoo.dll
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.pdb
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.genruntimeconfig.cache
+D:\PROGRAMAS\PROYECTOS\Practica Objetos\PruebasPoo\PruebasPoo\obj\Debug\net6.0\ref\PruebasPoo.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.deps.json
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.runtimeconfig.json
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\bin\Debug\net6.0\PruebasPoo.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.csproj.AssemblyReference.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.AssemblyInfoInputs.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.AssemblyInfo.cs
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.csproj.CoreCompileInputs.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\obj\Debug\net6.0\refint\PruebasPoo.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\obj\Debug\net6.0\PruebasPoo.genruntimeconfig.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\POO\PruebasPoo\PruebasPoo\obj\Debug\net6.0\ref\PruebasPoo.dll
